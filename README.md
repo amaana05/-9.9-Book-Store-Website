@@ -1,5 +1,5 @@
 # $99 Book Store Website
-is a project I created for web development course work in a day with simple HTML, CSS and JS.<br?>
+is a project I created in a day with simple HTML, CSS and JS.<br>
 
 All the images used in the project are taken by myself and belong to me.<br>
 
