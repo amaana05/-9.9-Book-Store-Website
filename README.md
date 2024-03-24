@@ -1,5 +1,8 @@
-$99 Book Store is a project I created for web development course work in a single day.
+# $99 Book Store Website
+is a project I created for web development course work in a day with simple HTML, CSS and JS.<br?>
+
+All the images used in the project are taken by myself and belong to me.<br>
 
 
-Created on: 17th October 2023
+Created on: 17th October 2023<br>
 Author: Amaan A
